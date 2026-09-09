@@ -153,3 +153,47 @@ customer-shopping-behavior-analysis/
 ├── customer shopping behavior analysis report.pdf
 ├── Customer.pdf
 └── README.md
+
+---
+
+## 🧠 Skills Demonstrated
+
+- Python
+- Pandas
+- SQL
+- PostgreSQL
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Data Visualisation
+- Power BI
+- Dashboard Development
+- Customer Segmentation
+- Business Analysis
+- Business Intelligence
+- Data-Driven Decision Making
+
+---
+
+## 🚀 Conclusion
+
+This project demonstrates a complete end-to-end data analytics workflow, from raw customer transaction data through data cleaning, exploratory analysis, SQL business analysis, and interactive Power BI dashboard development.
+
+The analysis provides practical insights into customer purchasing patterns, product performance, customer segments, and opportunities for improving customer engagement, retention, and sales strategies.
+
+This project demonstrates my ability to transform raw data into meaningful business insights and communicate findings through analytical reporting and interactive visualisation.
+
+---
+
+## 👤 Author
+
+**Tushar Chinubhai Valand**
+
+**Computer Engineering Graduate | Data Analytics | IT & Technology**
+
+- 📧 Email: tusharvaland1326@gmail.com
+- 🔗 LinkedIn: https://linkedin.com/in/tushar-valand
+- 💻 GitHub: https://github.com/tusharvaland1326
+
+---
+
+⭐ **If you find this project useful, feel free to explore the notebook, SQL queries, Power BI dashboard, and analysis reports included in this repository.**
