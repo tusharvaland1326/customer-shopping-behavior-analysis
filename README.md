@@ -153,6 +153,7 @@ customer-shopping-behavior-analysis/
 ├── customer shopping behavior analysis report.pdf
 ├── Customer.pdf
 └── README.md
+```
 
 ---
 
